@@ -1,0 +1,8 @@
+#linux grep commands.
+1. grep -l 'pattern' * (to search all the files in particular directory and list it on the basis of given pattern)
+2. grep -l 'pattern1\|pattern2\|pattern3...' * to search with or operator.
+
+-------------------------------------------
+#Linux some direct useful commands.
+1. cd ../ to go to one step down in a directory
+2. pwd (says about present working directory)
